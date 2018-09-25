@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+    <string name="loanAmountHint">Loan Amount:</string>
+    <string name="interestRateHint">Annual Interest Rate:</string>
+</resources>
