@@ -2,4 +2,8 @@
     <string name="app_name">Loan Calculator</string>
     <string name="loanAmountHint">Loan Amount:</string>
     <string name="interestRateHint">Annual Interest Rate:</string>
+    <string name="calcButton">Calculate</string>
+    <string name="yrlabel5">Monthly Payment for 5 Years:</string>
+    <string name="yrlabel10">Monthly Payment for 10 Years:</string>
+    <string name="yrlabel15">Monthly Payment for 15 Years:</string>
 </resources>
